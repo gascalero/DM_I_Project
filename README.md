@@ -1,1 +1,12 @@
-# DM_I_Project
+The project, titled **"Data-driven Pathways for Change,"** directly addresses the **increasing prevalence of mental health challenges among university students**. These issues are frequently **exacerbated by a complex interplay of academic workload, financial concerns, and social isolation**, all of which can profoundly impact student well-being and academic outcomes.
+
+To tackle this growing concern, the initiative leveraged **advanced data mining techniques** to analyze a comprehensive dataset. This dataset consisted of **11,336 records and 29 variables**, capturing diverse aspects of student life, including **demographics, academic performance, mental health, and various lifestyle factors**.
+
+The **primary objectives** of this endeavour were multifaceted:
+*   To **identify key contributors to mental health challenges and academic performance** among university students.
+*   To **uncover underlying patterns and distinct clusters within the data**, providing a robust foundation for developing **actionable strategies aimed at enhancing student support systems and promoting overall well-being**.
+*   To ultimately **derive insightful recommendations for effective interventions** based on the analytical findings.
+
+Before the analysis, **extensive data preprocessing was meticulously carried out to ensure data integrity and reliability**. This critical phase involved addressing **missing values, identifying and managing outliers, and applying necessary variable transformations**. Notably, **numerical characteristics were standardized using Robust Scaler** to enable robust clustering, an adjustment made to effectively mitigate the impact of skewed distributions. Subsequently, various **clustering algorithms, including K-means, DBSCAN, Gaussian Mixture Models (GMM), and Hierarchical Clustering**, were strategically applied across four key analytical perspectives: **Mental Health, Academic, Social Lifestyle, and Demographic**.
+
+Ultimately, this project underscores the **profound value of data mining techniques, particularly clustering**, in **identifying and comprehending intricate patterns** within student data. Such understanding is instrumental in formulating **more precise and tailored strategies** to effectively address students' unique needs. The findings collectively provide a **scalable framework for improving support services within educational institutions**, thereby fostering both **academic success and holistic well-being**.
